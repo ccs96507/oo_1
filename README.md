@@ -20,3 +20,8 @@
 * 0624101 方仲瑋
 ```
 [高科大](https://www.nkust.edu.tw)
+
+| Left | Center | Right |
+|:---------|:------------:|------:|
+|1|2|3|
+|:umbrella:|:umbrella:|:umbrella:|
